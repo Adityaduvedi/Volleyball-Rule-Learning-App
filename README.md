@@ -12,6 +12,7 @@ An interactive web app designed to help **beginners learn the rules of volleybal
 - 🌐 Built using **HTML, CSS, and JavaScript**
 
 🛠 Tech Stack
+
 HTML
 
 CSS
