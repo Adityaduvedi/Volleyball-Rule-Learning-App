@@ -13,7 +13,9 @@ An interactive web app designed to help **beginners learn the rules of volleybal
 
 🛠 Tech Stack
 HTML
+
 CSS
+
 JavaScript
 
 🙋‍♂️ About the Creator
