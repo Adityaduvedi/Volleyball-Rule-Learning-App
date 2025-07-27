@@ -11,15 +11,6 @@ An interactive web app designed to help **beginners learn the rules of volleybal
 - 💻 Responsive UI (works on both desktop and mobile)  
 - 🌐 Built using **HTML, CSS, and JavaScript**
 
-## 🚀 How to Run
-1. **Download or Clone** this repository:
-   ```bash
-   git clone https://github.com/Adityaduvedi/volleyball-rule-learning-app.git
-
-2.  Open index.html in your browser.
-
-✅ No need for any server or installation — just open the files in any modern browser.
-
 🛠 Tech Stack
 HTML
 CSS
