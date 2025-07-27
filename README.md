@@ -17,8 +17,10 @@ CSS
 JavaScript
 
 🙋‍♂️ About the Creator
+
 Developed by: Aditya
 🎓 A tech enthusiast and a passionate volleyball player, aiming to combine technology with sports education.
+
 💡 This project merges my love for web development and volleyball, making it easier for beginners to learn the game.
 
 📄 License
